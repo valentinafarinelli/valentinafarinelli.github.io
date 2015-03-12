@@ -1,0 +1,26 @@
+body {
+  margin: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: "Tahoma", sans-serif;
+  background-color: #B45623;
+  color: #000;
+  border: 7px solid white;
+}
+h1 {
+  font-size: 60px;
+  padding: 10px;
+  border: 10px solid grey;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h3 {
+  font-size: 27px;
+  line-height: 120%;
+}
+p {
+  font-size: 22px;
+  line-height: 150%;
+}
